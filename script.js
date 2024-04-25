@@ -19,8 +19,13 @@ tl.to(".btm-content",{
     duration:1.5,
 },'main')
 
-tl.to(".zoom-img",{
-    height:"100%",
-    width:"100%",
+tl.to(".mid-content",{
+    opacity:100,
+},'main')
+
+tl.to(".mid-img",{
+    height:"100vh",
+    width:"100vw",
     duration:5,
 },'main')
+
